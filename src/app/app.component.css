@@ -1,0 +1,27 @@
+.add-btn {
+    margin: 20px;
+}
+
+.col-sm {
+    margin: 10px;
+    background-image: linear-gradient(to bottom right, #d23dff, #36abff);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.inner-if {
+    background-image: linear-gradient(to bottom right, #5f007c, #004170);
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.delete {
+    margin-left: 10px;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
